@@ -1,5 +1,8 @@
 
-<h1 align="center"> CALENDÁRIO DA COPA - NLW</h1>
+<h1 align="center"> 
+CALENDÁRIO DA COPA - NLW</h1>
+
+[Visite a página](https://danieli01.github.io/copa-nlw-22/)
 
 <p align="center">
 Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.
